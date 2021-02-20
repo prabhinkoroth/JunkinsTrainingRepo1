@@ -12,6 +12,7 @@ namespace SampleConsoleApp1
         {
             Console.WriteLine("hellow world");
             Console.WriteLine("rock and roll");
+            Console.Write("new text");
         }
     }
 }
